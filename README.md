@@ -1,7 +1,7 @@
 # dacm-ui-eng-coding-exercise
 Coding Exercise
 
-For this exercise you will create a simple web application that does the following:
+For this exercise you will create a simple web application (refer Sample_task.docx for sample screens) that does the following:
 
     Build the UI components in React to capture customer details in multi-step process.
       In Screen 1, capture First Name, Middle Initial, Last Name, Email Address, Date Of Birth. 
