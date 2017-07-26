@@ -12,11 +12,12 @@ Build the UI components in React to capture customer details in multi-step proce
     in a DB.
     
    *Add necessary client side validations for the form fields.
+   
    #Use dropdown box for State field.
 
 Build the server application stateless.
 
-Build an REST API to perform above CRUD operations.
+Build an **REST API** to perform above CRUD operations.
 
 Use React, Redux, Node and any other api's/utilities to complete the assignment. You can use whatever db and back end technology you want as long as it can be executed in a Unix environment.
 
@@ -30,6 +31,6 @@ To submit the exercise,
 
   1. Deploy the application to some public location where we can interact with it (e.g. AWS S3, Heroku)
   2. Push the code to GitHub or some other code hosting service (private repository please - we can give you 
-    usernames to add as collaborators), or send us an archive of your local git repository. We cannot accept email attachments or Dropbox links.
+    usernames to add as collaborators), or send us an archive of your local git repository. **We cannot accept email attachments or Dropbox links.**
 
 Please send code that you are proud to show us!
